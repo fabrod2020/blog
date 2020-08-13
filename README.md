@@ -1,1 +1,1 @@
-Blog
+FullStack development with the MERV Stack!
